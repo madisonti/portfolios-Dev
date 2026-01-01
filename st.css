@@ -18,14 +18,14 @@ nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  gap: 90px;
+  gap: 200px;
   
 }
 
 nav a {
   text-decoration: none;
   color: #00ff00;
-  font-size: 18px;
+  font-size: 38px;
 
 }
 
@@ -35,12 +35,27 @@ nav a:hover {
 
 
 .base-1{
-
-
 display: flex;
 justify-content:center; 
-
+margin-top: 40px;
 }
+
+#con-base-1{
+width: 1560px;
+}
+.ima-m{
+width: 300px;
+background-color: #e9851300;
+border-radius: 1000px;
+margin-top: 50px;
+}
+.paragrafo{
+display: flex;
+width: 1200px auto;
+}
+.ima-m{
+display: flex; }
+
 
 
 h1 {
@@ -57,7 +72,26 @@ color:white;
 
 }
 
-.grim{
 
-    color: #00ff00;
+
+.grim {
+margin-top:40px ;
+color: #00ff00;
+ 
+}
+p {
+font-size: 30px;
+}
+
+
+#nome{
+ font-size: 100px;
+color: #00ff00;
+}
+.habilidade{
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  background-color: aliceblue;
+  width: 300px;
 }
